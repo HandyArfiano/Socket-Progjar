@@ -236,6 +236,7 @@ Hasil dari Code semua dijalankan:
 Server.py:
 
 Server terhubung ke klien:
+Server sudah terhubung ke banyak client (one-to-many)
 
 ![Screenshot 2024-04-27 082820](https://github.com/HandyArfiano/Socket-Progjar/assets/162109542/3bcb8b1e-f97f-4c4f-81ac-03fe48ea1356)
 
